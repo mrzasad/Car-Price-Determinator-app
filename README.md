@@ -1,5 +1,5 @@
 
-You are tasked with writing an algorithm that determines the value of a used car, 
+#  You are tasked with writing an algorithm that determines the value of a used car, 
 given several factors.
 
  AGE:    Given the number of months of how old the car is, reduce its value one-half 
@@ -24,7 +24,7 @@ given several factors.
  PROFITABILITY:    The final calculated price cannot exceed 90% of the purchase price. 
 
 
-# Each factor should be off of the result of the previous value in the order of
+ Each factor should be off of the result of the previous value in the order of
 	1. AGE
 	2. MILES
 	3. PREVIOUS OWNER
